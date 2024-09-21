@@ -1,0 +1,6 @@
+0 -> Background
+1 -> PowerUps
+2 -> Enemies
+3 -> Mario
+4 -> Pipes
+5 -> Blocks 
